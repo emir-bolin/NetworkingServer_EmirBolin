@@ -1,7 +1,7 @@
-import java.io.*;
 import java.net.*;
+import java.io.*;
 
-public class Main {
+public class NetworkingServer {
     public static void main(String[] args) {
 
         ServerSocket server = null;
