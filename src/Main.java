@@ -20,6 +20,7 @@ public class Main {
             System.out.println("ServerSocket is created "+ie);
             System.exit(1);
         }
+        System.out.println("ServerSocket is created " + server);
 
         // Wait for the data form the client and reply
         while(true){
